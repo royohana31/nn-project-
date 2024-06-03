@@ -1,0 +1,209 @@
+Educational_level,Gender,Age,Age_group,Height (m),Weight (kg),BMI,BMI_Range,Currently_LBP,LBP_6months,LBP_12months,LBP_first_time,Duration_in_12_months,LBP_episodes,Causes,Aggravating_factors,Leg_pain,Treatments,Do_exercise,Physical_activity_Frequency,Smoking_habit,Sitting_time,Chair_type,Adjustable_back,Adjustable_sitting,Most_activity,Rest_time
+,,,"1 =  ? 21, 2 = 22 – 24, 3 = ? 25 ",,,,"1 =  ? 25, 2 = > 25 ",,,,,"1=1-7, 2=8-30, 3=>30, 4=everyday","1 = 1, 2 = 2-3, 3 = >3",,,,,,,,,,,,,
+Medical interns,Male,24,2.00,1.80,90,27.80,2.00,No,Yes,Yes,Medical,1,2,No dx,Bending or Twisting,No,No treatment,5 - 7 times a week,High,Smoker,< 6 hours,No back support,No,No,Sitting,Yes
+Medical interns,Male,24,2.00,2.00,74,18.50,1.00,Yes,Yes,Yes,Medical,4,3,Fracture of hip or vertebral column,Bending or Twisting,No,Opioid painkillers,2 - 4 times a week,Moderate,Never smoked,? 6 hours,No back support,No,Yes,Bending,Yes
+Medical interns,Female,23,2.00,1.60,54,21.10,1.00,Yes,Yes,Yes,Medical,2,2,No dx,Maintaining a position for long periods,No,Opioid+Exercise,2 - 4 times a week,Moderate,Never smoked,< 6 hours,Have back support,No,No,Sitting,Yes
+Medical interns,Male,24,2.00,1.80,78,24.10,1.00,Yes,Yes,Yes,Medical,2,3,No dx,Maintaining a position for long periods,Yes,No treatment,Once a week,Moderate,Ex-smoker,< 6 hours,Have back support,No,Yes,No task for long time,Yes
+Medical interns,Female,24,2.00,1.60,50,19.50,1.00,Yes,Yes,Yes,Internship,3,3,No dx,Maintaining a position for long periods,Yes,Opioid painkillers,Rarely,Low,Never smoked,< 6 hours,No back support,No,No,Standing or walking,No
+Medical interns,Female,24,2.00,1.68,67,23.70,1.00,No,No,Yes,Medical,1,1,No dx,Maintaining a position for long periods,Not sure,Exercise therapy,Once a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+1st year,Male,20,1.00,1.68,64,22.70,1.00,Yes,Yes,Yes,College,4,3,No dx,Bending or Twisting,Yes,No treatment,2 - 4 times a week,Moderate,Never smoked,< 6 hours,Have back support,Yes,Yes,Sitting,Yes
+Medical interns,Male,24,2.00,1.63,72,27.20,2.00,Yes,Yes,Yes,Internship,3,3,No dx,Maintaining a position for long periods,Not sure,Opioid+Exercise,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+Medical interns,Male,24,2.00,1.64,58,21.60,1.00,No,Yes,Yes,Medical,1,1,No dx,Non-specific,No,Opioid painkillers,2 - 4 times a week,Moderate,Smoker,? 6 hours,Have back support,No,Yes,Sitting,Yes
+4th year,Male,23,2.00,1.60,74,28.90,2.00,No,No,No,,,,,,,,Never,Low,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+Medical interns,Female,24,2.00,1.70,72,24.90,1.00,No,Yes,Yes,Medical,1,1,No dx,Lifting any object,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,No
+Medical interns,Female,27,3.00,1.59,54,21.50,1.00,Yes,Yes,Yes,Medical,1,1,Others,Bending or Twisting,Yes,Exercise therapy,2 - 4 times a week,Moderate,Never smoked,< 6 hours,No back support,No,No,Sitting,Yes
+Medical interns,Female,24,2.00,1.57,60,24.30,1.00,No,Yes,Yes,Internship,1,1,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+Medical interns,Female,26,3.00,1.58,62,24.80,1.00,Yes,Yes,Yes,College,2,2,No dx,Maintaining a position for long periods,Yes,Opioid+Exercise,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+Final year,Male,24,2.00,1.73,68,22.70,1.00,No,No,Yes,Medical,1,1,No dx,Sudden movement,Yes,Exercise therapy,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Final year,Female,23,2.00,1.57,54,21.90,1.00,Yes,Yes,Yes,College,3,3,Strain,Maintaining a position for long periods,Not sure,Opioid painkillers,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,No
+4th year,Male,22,2.00,1.70,84,29.10,2.00,No,Yes,Yes,Medical,1,1,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+3rd year,Female,19,1.00,1.58,48,19.30,1.00,No,No,No,School,,,,,,,Never,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+4th year,Male,24,2.00,1.67,78,28.00,2.00,Yes,Yes,Yes,Medical,4,2,No dx,Lifting any object,No,Exercise therapy,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+3rd year,Female,21,1.00,1.54,53,22.30,1.00,No,Yes,Yes,Medical,1,1,Others,Maintaining a position for long periods,Yes,No treatment,Never,Low,Never smoked,? 6 hours,Have back support,No,Yes,Sitting,No
+Medical interns,Male,25,3.00,1.60,80,31.30,2.00,Yes,Yes,Yes,Medical,3,3,No dx,Maintaining a position for long periods,No,Opioid painkillers,Rarely,Low,Smoker,? 6 hours,Have back support,No,No,Sitting,No
+Final year,Female,24,2.00,1.50,70,31.10,2.00,No,Yes,Yes,Medical,2,2,No dx,Lifting any object,No,Opioid painkillers,Once a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+Final year,Female,25,3.00,1.67,56,20.10,1.00,No,No,No,,,,,,,,2 - 4 times a week,Moderate,Never smoked,? 6 hours,No back support,No,Yes,No task for long time,Yes
+Medical interns,Female,25,3.00,1.52,52,22.50,1.00,No,No,No,Medical,,,,,,,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+Medical interns,Male,25,3.00,1.57,56,22.70,1.00,No,No,No,Internship,,,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Final year,Female,23,2.00,1.57,59,23.90,1.00,No,No,No,College,,,Others,Non-specific,No,No treatment,Never,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Medical interns,Male,25,3.00,1.64,55,20.40,1.00,No,No,No,,,,,,,,Rarely,Low,Ex-smoker,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+1st year,Female,20,1.00,1.59,47,18.60,1.00,No,No,No,,,,,,,,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+3rd year,Male,21,1.00,1.63,58,21.90,1.00,No,No,No,,,,,,,,5 - 7 times a week,High,Never smoked,? 6 hours,No back support,No,No,No task for long time,No
+4th year,Female,22,2.00,1.58,49,19.80,1.00,No,No,Yes,Medical,1,1,Others,Maintaining a position for long periods,No,No treatment,Never,Low,Never smoked,? 6 hours,No back support,No,Yes,Sitting,No
+Final year,Female,24,2.00,1.60,60,23.40,1.00,No,No,Yes,School,2,3,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+Final year,Male,22,2.00,1.67,72,25.80,2.00,No,No,No,Medical,,,No dx,Non-specific,No,No treatment,Never,Low,Ex-smoker,? 6 hours,No back support,No,No,Sitting,No
+Final year,Male,24,2.00,1.70,58,20.10,1.00,No,No,No,School,,,,,,,Rarely,Low,Never smoked,< 6 hours,No back support,No,Yes,Standing or walking,Yes
+Medical interns,Female,24,2.00,1.61,52,20.10,1.00,No,Yes,Yes,Medical,1,2,Others,Maintaining a position for long periods,Not sure,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Standing or walking,No
+Medical interns,Female,25,3.00,1.65,65,23.90,1.00,No,No,No,Medical,,,Strain,Bending or Twisting,No,Opioid painkillers,Once a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+Final year,Male,23,2.00,1.50,53,23.60,1.00,No,No,No,Medical,,,No dx,Non-specific,No,No treatment,Rarely,Low,Never smoked,< 6 hours,No back support,No,Yes,No task for long time,Yes
+4th year,Female,23,2.00,1.57,53,21.50,1.00,No,No,Yes,Medical,1,2,No dx,Maintaining a position for long periods,Yes,Opioid painkillers,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+3rd year,Male,23,2.00,1.70,76,26.30,2.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+4th year,Female,22,2.00,1.54,74,31.20,2.00,Yes,Yes,Yes,Medical,1,3,Back trauma or accident,Bending or Twisting,Not sure,Opioid painkillers,2 - 4 times a week,Moderate,Never smoked,< 6 hours,No back support,No,No,Sitting,Yes
+Final year,Male,23,2.00,1.68,65,23.00,1.00,No,No,No,Medical,,,No dx,Maintaining a position for long periods,No,Exercise therapy,5 - 7 times a week,High,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Final year,Female,24,2.00,1.60,55,21.50,1.00,Yes,Yes,Yes,School,2,3,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+Medical interns,Male,24,2.00,1.82,92,27.80,2.00,No,No,No,,,,,,,,Rarely,Low,Smoker,? 6 hours,Have back support,No,No,No task for long time,Yes
+Medical interns,Male,27,3.00,1.67,65,23.30,1.00,No,No,Yes,Medical,1,1,Back trauma or accident,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+4th year,Female,23,2.00,1.70,94,32.50,2.00,No,Yes,Yes,Medical,4,2,No dx,Maintaining a position for long periods,Yes,No treatment,Rarely,Low,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Medical interns,Male,25,3.00,1.73,80,26.70,2.00,No,No,No,Medical,,,,,,,5 - 7 times a week,High,Never smoked,? 6 hours,Have back support,Yes,No,Bending,Yes
+Final year,Female,23,2.00,1.65,89,32.70,2.00,Yes,Yes,Yes,Medical,1,1,No dx,Maintaining a position for long periods,Yes,Opioid+Exercise,Once a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+Medical interns,Female,24,2.00,1.55,57,23.70,1.00,No,No,No,Medical,,,,,,,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+3rd year,Male,21,1.00,1.73,70,23.40,1.00,Yes,Yes,Yes,Medical,1,2,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,No back support,No,Yes,Sitting,Yes
+Final year,Female,24,2.00,1.65,72,26.40,2.00,Yes,Yes,Yes,Medical,4,3,No dx,Maintaining a position for long periods,No,Opioid painkillers,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+Medical interns,Female,26,3.00,1.16,63,46.70,2.00,Yes,Yes,Yes,Internship,3,3,No dx,Bending or Twisting,Yes,Opioid painkillers,Rarely,Low,Never smoked,? 6 hours,No back support,No,Yes,Standing or walking,Yes
+Medical interns,Male,26,3.00,1.52,57,24.70,1.00,No,Yes,Yes,Internship,1,1,Strain,Bending or Twisting,No,No treatment,2 - 4 times a week,Moderate,Smoker,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+4th year,Female,22,2.00,1.52,60,26.00,2.00,No,No,Yes,Medical,1,1,Operation by epidural or spinal block,Bending or Twisting,Yes,No treatment,Never,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+4th year,Female,21,1.00,1.57,66,26.60,2.00,Yes,Yes,Yes,Medical,1,1,No dx,Performing repetitive tasks,Not sure,Opioid+Exercise,5 - 7 times a week,High,Never smoked,? 6 hours,No back support,No,No,No task for long time,Yes
+4th year,Female,23,2.00,1.60,70,27.30,2.00,No,Yes,Yes,Medical,1,2,No dx,Maintaining a position for long periods,Yes,No treatment,Rarely,Low,Never smoked,? 6 hours,No back support,No,No,No task for long time,Yes
+3rd year,Female,22,2.00,1.60,56,21.90,1.00,No,No,No,Medical,,,Others,Bending or Twisting,No,No treatment,Rarely,Low,Never smoked,< 6 hours,Have back support,No,Yes,No task for long time,Yes
+4th year,Male,22,2.00,1.64,72,26.80,2.00,Yes,Yes,Yes,Medical,1,2,Strain,Bending or Twisting,No,No treatment,5 - 7 times a week,High,Never smoked,? 6 hours,No back support,No,Yes,Sitting,Yes
+Medical interns,Male,26,3.00,1.52,65,28.10,2.00,No,No,Yes,Medical,1,1,No dx,Maintaining a position for long periods,No,No treatment,5 - 7 times a week,High,Never smoked,? 6 hours,Have back support,No,No,Bending,Yes
+4th year,Male,22,2.00,1.60,63,24.60,1.00,No,No,Yes,College,2,2,No dx,Maintaining a position for long periods,Not sure,No treatment,Never,Low,Never smoked,< 6 hours,Have back support,No,No,No task for long time,Yes
+2nd year,Male,21,1.00,1.60,85,33.20,2.00,No,Yes,Yes,Medical,2,2,No dx,Maintaining a position for long periods,No,Opioid painkillers,Once a week,Moderate,Smoker,? 6 hours,Have back support,No,No,Sitting,No
+Final year,Female,24,2.00,1.65,53,19.50,1.00,No,No,Yes,Medical,3,3,No dx,Maintaining a position for long periods,No,Opioid painkillers,Rarely,Low,Never smoked,? 6 hours,No back support,No,Yes,Sitting,No
+Final year,Female,24,2.00,1.60,53,20.70,1.00,No,No,Yes,Medical,3,3,No dx,Maintaining a position for long periods,No,Opioid painkillers,Rarely,Low,Never smoked,? 6 hours,No back support,No,Yes,Sitting,No
+Final year,Female,24,2.00,1.60,53,20.70,1.00,No,No,Yes,Medical,3,3,No dx,Maintaining a position for long periods,No,Opioid painkillers,Rarely,Low,Never smoked,? 6 hours,No back support,No,Yes,Sitting,No
+4th year,Female,23,2.00,1.60,55,21.50,1.00,No,No,No,,,,,,,,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+3rd year,Female,21,1.00,1.52,66,28.60,2.00,No,No,Yes,Medical,1,1,No dx,Lifting any object,Not sure,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+3rd year,Female,22,2.00,1.52,44,18.90,1.00,Yes,Yes,Yes,Medical,3,3,Back trauma or accident,Sudden movement,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,No,Sitting,Yes
+3rd year,Female,21,1.00,1.60,68,26.60,2.00,No,Yes,Yes,College,3,2,No dx,Maintaining a position for long periods,Yes,No treatment,2 - 4 times a week,Moderate,Never smoked,? 6 hours,No back support,No,Yes,Sitting,No
+Final year,Female,24,2.00,1.60,59,23.00,1.00,No,Yes,Yes,Medical,1,2,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,Bending,No
+3rd year,Female,21,1.00,1.65,59,21.60,1.00,No,Yes,Yes,Medical,1,1,No dx,Maintaining a position for long periods,No,No treatment,Once a week,Moderate,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,No
+4th year,Male,23,2.00,1.72,70,23.70,1.00,No,No,No,,,,,,,,2 - 4 times a week,Moderate,Never smoked,? 6 hours,No back support,No,Yes,Standing or walking,Yes
+4th year,Male,22,2.00,1.61,63,24.30,1.00,No,No,No,,,,,,,,2 - 4 times a week,Moderate,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Final year,Male,25,3.00,1.80,82,25.30,2.00,No,No,No,,,,,,,,2 - 4 times a week,Moderate,Ex-smoker,? 6 hours,No back support,No,Yes,Standing or walking,Yes
+2nd year,Male,22,2.00,1.78,108,34.20,2.00,Yes,Yes,Yes,Medical,1,2,Back trauma or accident,Maintaining a position for long periods,Yes,No treatment,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+3rd year,Female,21,1.00,1.60,95,37.10,2.00,No,No,Yes,College,1,1,disc involvement,Maintaining a position for long periods,Not sure,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+Final year,Female,22,2.00,1.63,69,26.10,2.00,No,Yes,Yes,Medical,1,1,Others,Performing repetitive tasks,No,No treatment,2 - 4 times a week,Moderate,Never smoked,? 6 hours,No back support,No,Yes,Sitting,Yes
+Final year,Female,23,2.00,1.58,63,25.40,2.00,No,Yes,Yes,School,1,1,No dx,Maintaining a position for long periods,Yes,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+3rd year,Female,22,2.00,1.52,56,24.10,1.00,Yes,Yes,Yes,Medical,1,1,No dx,Maintaining a position for long periods,Not sure,No treatment,Rarely,Low,Never smoked,? 6 hours,No back support,No,No,Sitting,Yes
+4th year,Female,23,2.00,1.57,60,24.20,1.00,No,No,No,,,,,,,,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,No,Yes,No task for long time,Yes
+Final year,Female,24,2.00,1.53,57,24.30,1.00,Yes,Yes,Yes,College,1,2,Strain,Maintaining a position for long periods,Yes,Opioid painkillers,Rarely,Low,Never smoked,< 6 hours,Have back support,No,No,No task for long time,Yes
+Final year,Male,25,3.00,1.42,70,34.70,2.00,No,No,Yes,Medical,1,2,Others,Maintaining a position for long periods,No,Opioid painkillers,2 - 4 times a week,Moderate,Ex-smoker,? 6 hours,Have back support,No,No,Sitting,No
+Final year,Male,24,2.00,1.83,78,23.30,1.00,No,No,No,Medical,,,No dx,Bending or Twisting,Yes,Opioid painkillers,5 - 7 times a week,High,Smoker,? 6 hours,No back support,No,Yes,No task for long time,Yes
+Final year,Female,23,2.00,1.56,47,19.30,1.00,No,No,Yes,Medical,1,2,No dx,Maintaining a position for long periods,Yes,No treatment,Rarely,Low,Smoker,< 6 hours,Have back support,No,Yes,No task for long time,Yes
+Medical interns,Female,25,3.00,1.52,48,20.80,1.00,Yes,Yes,Yes,Medical,1,1,No dx,Maintaining a position for long periods,Not sure,No treatment,Never,Low,Never smoked,? 6 hours,Have back support,No,No,Standing or walking,No
+Final year,Female,24,2.00,1.54,60,25.30,2.00,No,Yes,Yes,School,1,1,No dx,Bending or Twisting,No,No treatment,Rarely,Low,Never smoked,? 6 hours,No back support,No,No,No task for long time,Yes
+Final year,Female,23,2.00,1.65,55,20.20,1.00,No,No,No,Medical,,,No dx,Performing repetitive tasks,No,Steroid injections,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Final year,Male,23,2.00,1.65,54,19.80,1.00,No,No,No,Medical,,,Back trauma or accident,Maintaining a position for long periods,Yes,Steroid injections,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+4th year,Female,24,2.00,1.52,46,19.90,1.00,Yes,Yes,Yes,Medical,4,3,disc involvement,Maintaining a position for long periods,No,Exercise therapy,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+Final year,Female,22,2.00,1.59,58,22.90,1.00,No,No,No,College,,,,,,,Once a week,Moderate,Never smoked,? 6 hours,No back support,No,No,No task for long time,Yes
+2nd year,Male,20,1.00,1.67,49,17.60,1.00,No,Yes,Yes,School,3,3,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+2nd year,Female,20,1.00,1.47,45,20.70,1.00,No,No,No,,,,,,,,Once a week,Moderate,Never smoked,< 6 hours,Have back support,Yes,Yes,Sitting,No
+3rd year,Male,21,1.00,1.80,90,27.80,2.00,No,Yes,Yes,College,1,2,No dx,Bending or Twisting,Yes,No treatment,Once a week,Moderate,Never smoked,< 6 hours,Have back support,No,No,Standing or walking,No
+Final year,Female,23,2.00,1.52,50,21.60,1.00,Yes,Yes,Yes,Medical,1,1,No dx,Bending or Twisting,Yes,No treatment,5 - 7 times a week,High,Never smoked,? 6 hours,No back support,No,No,Sitting,Yes
+2nd year,Male,21,1.00,1.40,48,24.50,1.00,No,Yes,Yes,College,2,2,No dx,Non-specific,Not sure,No treatment,Once a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Bending,Yes
+Medical interns,Male,24,2.00,1.70,82,28.40,2.00,No,No,Yes,Medical,2,2,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,< 6 hours,Have back support,Yes,Yes,Sitting,Yes
+4th year,Female,23,2.00,1.55,63,26.20,2.00,No,No,No,College,,,,,,,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+Medical interns,Female,24,2.00,1.52,54,23.40,1.00,No,No,No,College,,,,,,,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+3rd year,Male,24,2.00,1.70,90,31.10,2.00,No,No,No,,,,,,,,Never,Low,Smoker,? 6 hours,No back support,No,Yes,Sitting,Yes
+3rd year,Female,22,2.00,1.57,49,19.90,1.00,Yes,Yes,Yes,School,3,3,No dx,Bending or Twisting,Not sure,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,Yes,Sitting,Yes
+Medical interns,Female,24,2.00,1.62,68,25.90,2.00,No,Yes,Yes,Internship,1,1,No dx,Maintaining a position for long periods,No,No treatment,5 - 7 times a week,High,Never smoked,? 6 hours,No back support,No,Yes,Standing or walking,Yes
+4th year,Male,20,1.00,1.78,70,22.10,1.00,No,No,No,Medical,,,No dx,Lifting any object,Yes,Opioid painkillers,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,No,No task for long time,Yes
+1st year,Male,20,1.00,1.70,68,23.50,1.00,No,No,No,,,,,,,,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+4th year,Male,23,2.00,1.85,100,29.20,2.00,No,No,No,,,,,,,,Never,Low,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+Final year,Female,24,2.00,1.58,63,25.20,2.00,No,No,No,Medical,,,No dx,Bending or Twisting,Yes,Opioid+injection,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Final year,Male,24,2.00,1.70,68,23.50,1.00,No,No,Yes,College,1,1,No dx,Maintaining a position for long periods,No,Exercise therapy,2 - 4 times a week,Moderate,Ex-smoker,? 6 hours,Have back support,No,Yes,Sitting,Yes
+2nd year,Male,21,1.00,1.65,50,18.40,1.00,Yes,Yes,Yes,Medical,1,1,No dx,Lifting any object,Yes,No treatment,2 - 4 times a week,Moderate,Never smoked,< 6 hours,Have back support,Yes,No,No task for long time,Yes
+4th year,Male,24,2.00,1.43,69,33.70,2.00,No,No,No,School,,,No dx,Non-specific,No,Exercise therapy,Once a week,Moderate,Ex-smoker,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Medical interns,Female,24,2.00,1.54,54,22.80,1.00,No,No,No,College,,,No dx,Maintaining a position for long periods,Yes,No treatment,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+Final year,Female,24,2.00,1.52,65,28.10,2.00,No,No,No,Medical,,,No dx,Maintaining a position for long periods,Yes,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+1st year,Male,19,1.00,1.71,60,20.50,1.00,No,Yes,Yes,College,1,1,No dx,Bending or Twisting,Yes,No treatment,Once a week,Moderate,Never smoked,? 6 hours,No back support,No,Yes,Sitting,No
+4th year,Female,24,2.00,1.65,77,28.30,2.00,No,No,Yes,Medical,1,1,No dx,Non-specific,No,No treatment,>7 times a week,High,Never smoked,< 6 hours,Have back support,No,Yes,No task for long time,Yes
+2nd year,Female,21,1.00,1.54,44,18.60,1.00,No,Yes,Yes,College,1,1,No dx,Non-specific,Not sure,No treatment,Rarely,Low,Never smoked,< 6 hours,Have back support,No,No,No task for long time,Yes
+2nd year,Male,21,1.00,1.68,55,19.60,1.00,No,Yes,Yes,Medical,1,1,Strain,Performing repetitive tasks,Not sure,No treatment,5 - 7 times a week,High,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+2nd year,Female,21,1.00,1.54,64,27.00,2.00,No,No,Yes,College,1,2,No dx,Maintaining a position for long periods,Not sure,No treatment,Never,Low,Never smoked,? 6 hours,No back support,No,No,No task for long time,Yes
+2nd year,Female,21,1.00,1.63,54,20.40,1.00,No,No,No,,,,,,,,2 - 4 times a week,Moderate,Never smoked,< 6 hours,Have back support,No,No,No task for long time,Yes
+Final year,Female,24,2.00,1.58,65,26.00,2.00,Yes,Yes,Yes,Medical,3,3,Sprain,Maintaining a position for long periods,Yes,No treatment,Rarely,Low,Never smoked,? 6 hours,No back support,No,No,No task for long time,Yes
+4th year,Female,21,1.00,1.51,59,26.00,2.00,No,No,Yes,Medical,1,2,No dx,Maintaining a position for long periods,No,No treatment,2 - 4 times a week,Moderate,Never smoked,< 6 hours,Have back support,No,No,Sitting,No
+2nd year,Female,19,1.00,1.55,67,27.90,2.00,No,Yes,Yes,College,1,2,No dx,Maintaining a position for long periods,Yes,Exercise therapy,Never,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+Medical interns,Male,25,3.00,1.63,60,22.60,1.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,? 6 hours,Have back support,Yes,Yes,Standing or walking,Yes
+Medical interns,Female,24,2.00,1.50,49,21.80,1.00,No,Yes,Yes,Medical,1,1,No dx,Maintaining a position for long periods,Yes,No treatment,Never,Low,Never smoked,? 6 hours,No back support,No,No,Sitting,Yes
+2nd year,Female,21,1.00,1.63,58,21.80,1.00,No,No,Yes,School,1,1,No dx,Non-specific,Yes,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,Bending,Yes
+2nd year,Male,21,1.00,1.80,69,21.30,1.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+2nd year,Female,20,1.00,1.59,64,25.30,2.00,Yes,Yes,Yes,Medical,3,3,No dx,Maintaining a position for long periods,Yes,Opioid painkillers,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+2nd year,Female,20,1.00,1.59,64,25.30,2.00,Yes,Yes,Yes,Medical,3,3,No dx,Maintaining a position for long periods,Yes,Opioid painkillers,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+Medical interns,Male,25,3.00,1.63,60,22.70,1.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,Standing or walking,Yes
+Final year,Female,24,2.00,1.52,51,22.00,1.00,No,No,No,School,,,,,,,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+3rd year,Male,21,1.00,1.70,61,21.10,1.00,No,No,No,School,,,,,,,Once a week,Moderate,Never smoked,< 6 hours,Have back support,Yes,Yes,Sitting,Yes
+4th year,Male,24,2.00,1.68,72,25.50,2.00,No,No,Yes,Medical,1,1,Others,Lifting any object,No,Exercise therapy,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+2nd year,Female,21,1.00,1.45,42,20.00,1.00,No,No,Yes,Medical,1,2,Strain,Maintaining a position for long periods,No,No treatment,Never,Low,Never smoked,< 6 hours,Have back support,No,Yes,Sitting,No
+Medical interns,Female,25,3.00,1.52,52,22.50,1.00,Yes,Yes,Yes,College,3,3,Strain,Maintaining a position for long periods,Yes,Exercise therapy,2 - 4 times a week,Moderate,Never smoked,? 6 hours,No back support,No,No,Sitting,Yes
+4th year,Male,22,2.00,1.83,54,16.10,1.00,No,No,No,,,,,,,,Rarely,Low,Never smoked,< 6 hours,Have back support,Yes,Yes,Bending,Yes
+Medical interns,Female,24,2.00,1.50,43,19.10,1.00,No,No,No,Medical,,,No dx,Maintaining a position for long periods,Yes,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+Medical interns,Male,24,2.00,1.75,50,16.30,1.00,No,No,No,Medical,,,No dx,Non-specific,No,No treatment,Once a week,Moderate,Smoker,< 6 hours,No back support,No,Yes,No task for long time,Yes
+Medical interns,Female,24,2.00,1.50,43,19.10,1.00,No,No,No,Medical,,,No dx,Maintaining a position for long periods,Yes,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+3rd year,Female,24,2.00,1.62,68,25.90,2.00,Yes,Yes,Yes,Medical,4,3,No dx,Maintaining a position for long periods,No,Opioid+injection,5 - 7 times a week,High,Never smoked,? 6 hours,Have back support,Yes,Yes,Standing or walking,Yes
+Final year,Female,22,2.00,1.52,55,23.80,1.00,No,No,No,,,,,,,,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+4th year,Female,23,2.00,1.63,70,26.30,2.00,No,Yes,Yes,Medical,1,2,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,< 6 hours,No back support,No,No,Sitting,No
+2nd year,Female,20,1.00,1.65,73,26.80,2.00,No,Yes,Yes,College,1,2,No dx,Maintaining a position for long periods,Not sure,No treatment,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,Yes,No,Sitting,Yes
+1st year,Male,20,1.00,1.50,62,27.60,2.00,No,Yes,Yes,College,1,1,Neuropathy,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+4th year,Female,22,2.00,1.15,62,46.90,2.00,Yes,Yes,Yes,College,4,3,No dx,Maintaining a position for long periods,No,No treatment,Never,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+Final year,Female,23,2.00,1.50,71,31.60,2.00,No,Yes,Yes,Medical,1,2,No dx,Maintaining a position for long periods,Yes,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+2nd year,Female,19,1.00,1.54,48,20.20,1.00,Yes,Yes,Yes,School,1,1,No dx,Maintaining a position for long periods,No,No treatment,Once a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+2nd year,Female,21,1.00,1.60,56,21.90,1.00,No,No,Yes,Medical,1,1,No dx,Sudden movement,Not sure,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Final year,Male,23,2.00,1.67,60,21.50,1.00,No,No,Yes,Medical,1,2,No dx,Bending or Twisting,No,No treatment,5 - 7 times a week,High,Never smoked,? 6 hours,Have back support,No,No,No task for long time,Yes
+2nd year,Female,20,1.00,1.58,50,20.20,1.00,Yes,Yes,Yes,School,3,3,No dx,Maintaining a position for long periods,Not sure,Opioid painkillers,Rarely,Low,Never smoked,? 6 hours,No back support,No,Yes,No task for long time,Yes
+2nd year,Female,20,1.00,1.60,58,22.70,1.00,Yes,Yes,Yes,College,1,2,disc involvement,Lifting any object,Yes,Opioid+Exercise,Rarely,Low,Never smoked,< 6 hours,No back support,No,No,Standing or walking,Yes
+2nd year,Female,20,1.00,1.65,70,25.70,2.00,No,No,Yes,Medical,1,1,No dx,Maintaining a position for long periods,Not sure,No treatment,>7 times a week,High,Never smoked,? 6 hours,No back support,No,No,Bending,Yes
+Medical interns,Male,25,3.00,1.20,80,55.60,2.00,Yes,Yes,Yes,Internship,1,1,No dx,Maintaining a position for long periods,Not sure,Exercise therapy,Once a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+3rd year,Female,21,1.00,1.67,70,25.10,2.00,No,Yes,Yes,Medical,1,2,No dx,Bending or Twisting,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+4th year,Female,22,2.00,1.75,65,21.20,1.00,Yes,Yes,Yes,Medical,4,3,No dx,Bending or Twisting,Yes,Exercise therapy,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+2nd year,Female,20,1.00,1.50,50,22.20,1.00,No,Yes,Yes,Medical,1,2,No dx,Bending or Twisting,No,No treatment,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,No,No task for long time,Yes
+2nd year,Male,21,1.00,1.76,56,18.10,1.00,No,No,Yes,School,1,1,Degeneration,Bending or Twisting,Not sure,Exercise therapy,2 - 4 times a week,Moderate,Smoker,< 6 hours,Have back support,No,No,No task for long time,Yes
+Final year,Female,24,2.00,1.55,63,26.20,2.00,No,Yes,Yes,Medical,1,2,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,Yes,No task for long time,Yes
+2nd year,Female,21,1.00,1.53,45,19.30,1.00,No,No,No,College,,,Strain,Bending or Twisting,Not sure,Opioid painkillers,Once a week,Moderate,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+1st year,Female,20,1.00,1.57,49,19.80,1.00,Yes,Yes,Yes,School,4,3,Strain,Non-specific,Yes,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,Yes,No,Sitting,Yes
+4th year,Female,22,2.00,1.52,46,19.80,1.00,Yes,Yes,Yes,Medical,2,3,No dx,Maintaining a position for long periods,No,No treatment,Once a week,Moderate,Never smoked,? 6 hours,Have back support,Yes,Yes,Sitting,Yes
+1st year,Male,20,1.00,1.60,65,25.40,2.00,No,No,No,,,,,,,,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,No,Yes,No task for long time,Yes
+1st year,Male,19,1.00,1.60,85,33.20,2.00,No,Yes,Yes,College,3,3,Others,Maintaining a position for long periods,No,No treatment,Rarely,Low,Smoker,? 6 hours,Have back support,No,No,Sitting,Yes
+Final year,Male,24,2.00,1.70,78,27.00,2.00,No,No,No,Medical,,,Strain,Bending or Twisting,Yes,Opioid painkillers,>7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+4th year,Female,23,2.00,1.63,70,26.30,2.00,No,Yes,Yes,Medical,1,2,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,< 6 hours,No back support,No,No,Sitting,No
+Medical interns,Male,25,3.00,1.73,68,22.80,1.00,No,No,No,,,,,,,,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Standing or walking,Yes
+1st year,Male,20,1.00,1.60,62,24.20,1.00,No,No,Yes,College,1,1,No dx,Maintaining a position for long periods,No,No treatment,2 - 4 times a week,Moderate,Smoker,< 6 hours,Have back support,No,No,No task for long time,Yes
+2nd year,Male,21,1.00,1.70,85,29.40,2.00,Yes,Yes,Yes,Medical,3,3,No dx,Maintaining a position for long periods,No,No treatment,Never,Low,Smoker,? 6 hours,No back support,No,No,Sitting,No
+1st year,Male,20,1.00,1.56,85,34.90,2.00,No,Yes,Yes,Medical,2,1,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Smoker,? 6 hours,No back support,No,No,Sitting,Yes
+2nd year,Male,21,1.00,1.60,67,26.20,2.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+1st year,Female,19,1.00,1.55,50,20.80,1.00,No,No,No,,,,,,,,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,No,No task for long time,Yes
+1st year,Female,20,1.00,1.61,60,23.10,1.00,No,Yes,Yes,Medical,2,2,No dx,Lifting any object,Yes,No treatment,Once a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+3rd year,Male,23,2.00,1.70,95,32.90,2.00,No,No,No,Medical,,,Back trauma or accident,Sudden movement,No,Opioid painkillers,5 - 7 times a week,High,Smoker,? 6 hours,Have back support,No,No,Sitting,Yes
+1st year,Male,20,1.00,1.63,54,20.30,1.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+3rd year,Female,22,2.00,1.58,59,23.60,1.00,No,No,Yes,Medical,1,1,Strain,Sudden movement,No,Opioid painkillers,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+1st year,Female,19,1.00,1.55,45,18.70,1.00,Yes,Yes,Yes,Medical,2,2,Others,Non-specific,No,Opioid painkillers,Once a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+3rd year,Female,23,2.00,1.57,85,34.50,2.00,Yes,Yes,Yes,Medical,3,3,No dx,Maintaining a position for long periods,No,No treatment,Never,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+1st year,Male,20,1.00,1.70,76,26.30,2.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+1st year,Female,19,1.00,1.64,61,22.70,1.00,No,Yes,Yes,College,2,2,Sprain,Lifting any object,Yes,Opioid+Exercise,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+3rd year,Male,23,2.00,1.60,83,32.40,2.00,Yes,Yes,Yes,Medical,3,3,No dx,Lifting any object,No,No treatment,Rarely,Low,Smoker,? 6 hours,Have back support,No,No,Sitting,No
+1st year,Female,19,1.00,1.54,48,20.20,1.00,No,No,No,,,,,,,,2 - 4 times a week,Moderate,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+Medical interns,Male,26,3.00,1.62,65,24.80,1.00,Yes,Yes,Yes,Internship,2,2,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Smoker,? 6 hours,No back support,No,No,Standing or walking,No
+1st year,Male,19,1.00,1.73,64,21.40,1.00,No,No,Yes,Medical,1,1,Sprain,Bending or Twisting,Yes,Opioid painkillers,2 - 4 times a week,Moderate,Smoker,? 6 hours,Have back support,No,No,Sitting,Yes
+1st year,Male,20,1.00,1.68,65,23.00,1.00,No,No,No,,,,,,,,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+4th year,Male,25,3.00,1.67,80,28.70,2.00,Yes,Yes,Yes,Medical,2,3,No dx,Performing repetitive tasks,No,No treatment,2 - 4 times a week,Moderate,Never smoked,< 6 hours,Have back support,No,No,Sitting,Yes
+1st year,Male,20,1.00,1.65,56,20.60,1.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+4th year,Male,22,2.00,1.66,70,25.40,2.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,? 6 hours,Have back support,No,Yes,Standing or walking,Yes
+3rd year,Male,23,2.00,1.88,97,27.40,2.00,Yes,Yes,Yes,College,3,3,No dx,Maintaining a position for long periods,No,Opioid painkillers,5 - 7 times a week,High,Smoker,< 6 hours,No back support,No,No,No task for long time,Yes
+Final year,Male,23,2.00,1.70,65,22.50,1.00,Yes,Yes,Yes,Medical,3,3,No dx,Maintaining a position for long periods,No,No treatment,Once a week,Moderate,Never smoked,< 6 hours,No back support,No,Yes,No task for long time,Yes
+3rd year,Male,22,2.00,1.70,78,26.90,2.00,Yes,Yes,Yes,Medical,4,3,No dx,Lifting any object,No,No treatment,Never,Low,Never smoked,? 6 hours,No back support,No,No,Sitting,Yes
+4th year,Female,22,2.00,1.63,50,18.80,1.00,No,Yes,Yes,Medical,2,2,No dx,Maintaining a position for long periods,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+3rd year,Male,22,2.00,1.60,65,25.40,2.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,No,No task for long time,Yes
+3rd year,Female,21,1.00,1.55,48,20.00,1.00,Yes,Yes,Yes,Medical,2,2,No dx,Sudden movement,No,No treatment,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+3rd year,Male,23,2.00,1.62,65,24.80,1.00,No,Yes,Yes,Medical,3,3,Back trauma or accident,Bending or Twisting,Yes,Opioid+injection,2 - 4 times a week,Moderate,Smoker,? 6 hours,Have back support,No,No,Sitting,Yes
+1st year,Female,20,1.00,1.56,86,35.30,2.00,Yes,Yes,Yes,College,3,3,No dx,Maintaining a position for long periods,No,No treatment,Never,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+1st year,Male,19,1.00,1.70,61,21.10,1.00,No,No,No,,,,,,,,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,No,Standing or walking,Yes
+4th year,Female,24,2.00,1.58,56,22.40,1.00,No,No,Yes,Medical,1,1,Strain,Sudden movement,No,Opioid painkillers,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+1st year,Male,19,1.00,1.54,73,30.80,2.00,Yes,Yes,Yes,College,2,2,No dx,Maintaining a position for long periods,Yes,Opioid+Exercise,Rarely,Low,Smoker,? 6 hours,No back support,No,No,Sitting,No
+1st year,Female,20,1.00,1.72,70,23.70,1.00,No,No,No,,,,,,,,2 - 4 times a week,Moderate,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+1st year,Male,19,1.00,1.64,63,23.40,1.00,No,No,Yes,Medical,1,1,Sprain,Bending or Twisting,No,Opioid painkillers,2 - 4 times a week,Moderate,Smoker,< 6 hours,Have back support,Yes,No,No task for long time,Yes
+3rd year,Female,23,2.00,1.59,57,22.50,1.00,No,Yes,Yes,Medical,2,2,Operation by epidural or spinal block,Maintaining a position for long periods,Yes,Opioid painkillers,Rarely,Low,Never smoked,? 6 hours,Have back support,No,No,Sitting,No
+2nd year,Male,21,1.00,1.66,62,22.50,1.00,No,No,No,,,,,,,,>7 times a week,High,Ex-smoker,? 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+1st year,Male,21,1.00,1.54,52,21.90,1.00,No,No,No,,,,,,,,5 - 7 times a week,High,Smoker,< 6 hours,Have back support,Yes,No,No task for long time,Yes
+2nd year,Male,21,1.00,1.70,85,29.40,2.00,No,Yes,Yes,Medical,2,2,No dx,Non-specific,Not sure,No treatment,Once a week,Moderate,Smoker,< 6 hours,Have back support,No,No,No task for long time,Yes
+1st year,Male,20,1.00,1.65,72,26.40,2.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+1st year,Male,21,1.00,1.60,57,22.30,1.00,No,No,No,,,,,,,,5 - 7 times a week,High,Smoker,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+1st year,Female,19,1.00,1.54,45,19.00,1.00,No,No,No,,,,,,,,2 - 4 times a week,Moderate,Never smoked,< 6 hours,Have back support,Yes,No,No task for long time,Yes
+4th year,Female,24,2.00,1.59,53,21.00,1.00,No,No,No,Medical,,,No dx,Non-specific,No,No treatment,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,No,No,Sitting,Yes
+3rd year,Female,22,2.00,1.64,71,26.40,2.00,No,No,Yes,Medical,2,2,Sprain,Lifting any object,No,Opioid painkillers,2 - 4 times a week,Moderate,Never smoked,? 6 hours,Have back support,Yes,No,Sitting,Yes
+1st year,Male,20,1.00,1.63,65,24.50,1.00,No,No,No,,,,,,,,>7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+2nd year,Female,22,2.00,1.56,57,23.40,1.00,No,No,No,Medical,,,Back trauma or accident,Bending or Twisting,No,Opioid painkillers,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,No,No task for long time,Yes
+3rd year,Female,21,1.00,1.60,65,25.40,2.00,No,No,No,,,,,,,,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
+2nd year,Male,20,1.00,1.60,62,24.20,1.00,No,Yes,Yes,Medical,1,2,No dx,Sudden movement,No,No treatment,Once a week,Moderate,Smoker,? 6 hours,No back support,No,No,Sitting,No
+1st year,Female,19,1.00,1.58,55,22.00,1.00,No,No,No,,,,,,,,5 - 7 times a week,High,Never smoked,< 6 hours,Have back support,Yes,Yes,No task for long time,Yes
